@@ -1,2 +1,18 @@
-# DoS-Tol
-A simple tool to send repeated requests to a specific target (DoS attack). **This tool is for educational purposes only**.
+# DoS Tool
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+أداة بسيطة لإرسال طلبات متكررة إلى هدف معين (هجوم DoS). **هذه الأداة مخصصة لأغراض تعليمية فقط**.
+
+## تحذير
+- **لا تستخدم هذه الأداة لأغراض غير قانونية أو غير أخلاقية**.
+- يجب استخدامها فقط في بيئات خاصة حيث لديك الإذن الصريح لاختبار الأنظمة.
+
+## المتطلبات
+- Python 3.x
+
+## كيفية الاستخدام
+1. قم بتشغيل البرنامج:
+   ```bash
+   python3 pyfier.py
